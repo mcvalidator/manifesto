@@ -1,0 +1,2 @@
+# manifesto
+McValidator implementin' manifesto.
