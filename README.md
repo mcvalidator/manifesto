@@ -30,4 +30,4 @@ Joints store __Rules__ and __Regulators__, each field on the input have its own 
 
 Value store value and its __Filter__ and __Rule__ history, so, you can know the path where your data has pass.
 
-[Imgur](http://i.imgur.com/pZds4dh.png)
+![Imgur](http://i.imgur.com/pZds4dh.png)
